@@ -1,16 +1,15 @@
 # quiz_app
 
-A new Flutter project.
+A Quiz App for my Second Flutter Project.
 
-## Getting Started
+### Home Screen
 
-This project is a starting point for a Flutter application.
+![Home Screen](image.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Quiz Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Quiz Screen](image-1.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Result Screen
+
+![Result Screen](image-2.png)
